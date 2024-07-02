@@ -8,3 +8,9 @@ num = 'abc'
 print(num)
 print(num[::-1])
 
+lst = ['Apple','Orange','Banana','Grapes']
+print(lst)
+lst.append('Mango')
+print(lst)
+lst.append(input('Enter fruit : '))
+print(lst)
