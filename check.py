@@ -7,3 +7,10 @@ def ispostiveornegative(num):
         print('Zero')
     else:
         print('Invalid')
+
+
+def evenorodd(num):
+    if num % 2 ==0:
+        print('Even')
+    else:
+        print('Odd')
