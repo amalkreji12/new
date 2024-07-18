@@ -79,4 +79,3 @@ clear.grid(row=5,column=2)
 window.mainloop()
 
 
-# help : https://www.geeksforgeeks.org/python-simple-gui-calculator-using-tkinter/
