@@ -1,4 +1,3 @@
-for i in range(10):
-    if i==5:
-        break
-    print(i)
+button1.pack()
+# button2.pack()
+# label.pack()
